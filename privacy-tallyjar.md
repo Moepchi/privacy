@@ -21,6 +21,17 @@ TallyJar benötigt eine Internetberechtigung ausschließlich für die von dir op
 6. Feedback-Formular
 TallyJar bietet in den Einstellungen ein Feedback-Formular an. Trägst du dort eine Nachricht ein und tippst auf "Per E-Mail senden", öffnet die App lediglich die auf deinem Gerät installierte E-Mail-App mit einer vorausgefüllten Nachricht (Betreff und von dir eingegebener Text). TallyJar selbst versendet, speichert oder überträgt diese Daten zu keinem Zeitpunkt – ob und wann die E-Mail tatsächlich verschickt wird, entscheidest du in deiner E-Mail-App. Der Versand erfolgt dann direkt von deinem E-Mail-Konto an die im Formular hinterlegte Empfängeradresse des Entwicklers.
 
-7. Kontakt
-Bei Fragen zum Datenschutz kannst du dich direkt an den Entwickler wenden:
-gplay.moepchi.de
+Beim Entwickler eingehende Feedback-E-Mails (inkl. deiner Absenderadresse und des Nachrichtentextes) werden ausschließlich zur Bearbeitung deines Anliegens verwendet und spätestens 12 Monate nach Eingang gelöscht, sofern keine längere Aufbewahrung im Einzelfall erforderlich ist (z. B. bei einer noch offenen Rückfrage).
+
+7. Verantwortlicher und Kontakt
+Verantwortlicher im Sinne der DSGVO für die Datenverarbeitung im Zusammenhang mit dieser App:
+
+Riccardo Schönherr
+c/o flexdienst - #10755
+Kurt-Schumacher-Straße 76
+67663 Kaiserslautern
+Deutschland
+
+E-Mail: webmaster@moepchi.de
+
+Bei Fragen zum Datenschutz kannst du dich jederzeit an obige Adresse wenden. Weitere Angaben findest du im Impressum unter https://moepchi.de.
