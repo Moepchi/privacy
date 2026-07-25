@@ -18,6 +18,9 @@ Die App enthält keine Werbenetzwerke, keine Tracking-SDKs und keine Analyse-Too
 5. Berechtigungen
 TallyJar benötigt eine Internetberechtigung ausschließlich für die von dir optional aktivierte WebDAV-Synchronisierung mit deinem eigenen Server. Ohne Aktivierung dieser Funktion stellt die App keine Netzwerkverbindungen her.
 
-6. Kontakt
+6. Feedback-Formular
+TallyJar bietet in den Einstellungen ein Feedback-Formular an. Trägst du dort eine Nachricht ein und tippst auf "Per E-Mail senden", öffnet die App lediglich die auf deinem Gerät installierte E-Mail-App mit einer vorausgefüllten Nachricht (Betreff und von dir eingegebener Text). TallyJar selbst versendet, speichert oder überträgt diese Daten zu keinem Zeitpunkt – ob und wann die E-Mail tatsächlich verschickt wird, entscheidest du in deiner E-Mail-App. Der Versand erfolgt dann direkt von deinem E-Mail-Konto an die im Formular hinterlegte Empfängeradresse des Entwicklers.
+
+7. Kontakt
 Bei Fragen zum Datenschutz kannst du dich direkt an den Entwickler wenden:
 gplay.moepchi.de
